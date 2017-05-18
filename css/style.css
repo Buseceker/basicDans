@@ -1,0 +1,28 @@
+body 
+{
+	background:red;
+	font-family: Tahoma;
+	font-size:12px;
+	color:#FFF;
+}
+h1 {
+	color:#FFF;
+	font-size:24px;
+}
+hr {
+	color:#FFF;
+}
+a {
+	color:#FFF;
+	text-decoration:none;	
+}
+.link {
+	width:40px;
+	height:30px;
+	border:1px solid #000;
+	text-align:center;
+	display:inline-block;
+}
+.link a {
+	color:#000;
+}
